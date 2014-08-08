@@ -10,8 +10,8 @@
 		B30CD3431940F2BA00D127BA /* ForgotPasswordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B30CD3411940F2BA00D127BA /* ForgotPasswordViewController.m */; };
 		B30CD3471941012900D127BA /* RequestAccountViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B30CD3461941012900D127BA /* RequestAccountViewController.m */; };
 		B31E65AA1954889400D6CE92 /* AdvancedSearchController.m in Sources */ = {isa = PBXBuildFile; fileRef = B31E65A91954889400D6CE92 /* AdvancedSearchController.m */; };
-		B3234AA5195DCCE4004E017C /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3234AA4195DCCE4004E017C /* Main_iPhone.storyboard */; };
 		B33438ED195A0747006F21FF /* GSEAController.m in Sources */ = {isa = PBXBuildFile; fileRef = B33438EC195A0747006F21FF /* GSEAController.m */; };
+		B336E76619951F0E00A40EEE /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B336E76519951F0E00A40EEE /* Main_iPhone.storyboard */; };
 		B33DBD6719420C04008F5EBA /* DatabaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B33DBD6619420C04008F5EBA /* DatabaseViewController.m */; };
 		B33DBD6A19424176008F5EBA /* DataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B33DBD6919424176008F5EBA /* DataViewController.m */; };
 		B35EECD2196AED6500465C36 /* UIScrollView+ScrollViewTouch.m in Sources */ = {isa = PBXBuildFile; fileRef = B35EECD1196AED6500465C36 /* UIScrollView+ScrollViewTouch.m */; };
@@ -54,9 +54,9 @@
 		B30CD3461941012900D127BA /* RequestAccountViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RequestAccountViewController.m; path = GeneAccess/RequestAccountViewController.m; sourceTree = SOURCE_ROOT; };
 		B31E65A81954889400D6CE92 /* AdvancedSearchController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AdvancedSearchController.h; path = GeneAccess/AdvancedSearchController.h; sourceTree = SOURCE_ROOT; };
 		B31E65A91954889400D6CE92 /* AdvancedSearchController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AdvancedSearchController.m; path = GeneAccess/AdvancedSearchController.m; sourceTree = SOURCE_ROOT; };
-		B3234AA4195DCCE4004E017C /* Main_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main_iPhone.storyboard; path = ../../../Desktop/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		B33438EB195A0740006F21FF /* GSEAController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GSEAController.h; path = GeneAccess/GSEAController.h; sourceTree = SOURCE_ROOT; };
 		B33438EC195A0747006F21FF /* GSEAController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GSEAController.m; path = GeneAccess/GSEAController.m; sourceTree = SOURCE_ROOT; };
+		B336E76519951F0E00A40EEE /* Main_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main_iPhone.storyboard; sourceTree = "<group>"; };
 		B33DBD6519420C04008F5EBA /* DatabaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DatabaseViewController.h; path = GeneAccess/DatabaseViewController.h; sourceTree = SOURCE_ROOT; };
 		B33DBD6619420C04008F5EBA /* DatabaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DatabaseViewController.m; path = GeneAccess/DatabaseViewController.m; sourceTree = SOURCE_ROOT; };
 		B33DBD6819424176008F5EBA /* DataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DataViewController.h; path = GeneAccess/DataViewController.h; sourceTree = SOURCE_ROOT; };
@@ -160,7 +160,7 @@
 				B37BCB18193E03E6004EC6D0 /* AppDelegate.h */,
 				B37BCB19193E03E6004EC6D0 /* AppDelegate.m */,
 				B38DF1CC1958607E00BDAE81 /* Main_iPad.storyboard */,
-				B3234AA4195DCCE4004E017C /* Main_iPhone.storyboard */,
+				B336E76519951F0E00A40EEE /* Main_iPhone.storyboard */,
 				B39DCB261992BF1A00AE6179 /* Custom4Controller.h */,
 				B39DCB271992BF1A00AE6179 /* Custom4Controller.m */,
 				B3715552198FE1AC00B05897 /* Custom3Controller.h */,
@@ -306,7 +306,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3234AA5195DCCE4004E017C /* Main_iPhone.storyboard in Resources */,
+				B336E76619951F0E00A40EEE /* Main_iPhone.storyboard in Resources */,
 				B37BCB25193E03E6004EC6D0 /* Images.xcassets in Resources */,
 				B38DF1CD1958607E00BDAE81 /* Main_iPad.storyboard in Resources */,
 				B37BCB14193E03E6004EC6D0 /* InfoPlist.strings in Resources */,
