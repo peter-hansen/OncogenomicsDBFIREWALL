@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>62BE34C7-9203-4B40-BB4A-6B3BD5E595ED</string>
+	<string>C54C7BC6-D416-4AD4-9A67-37B331F3DCB2</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Oncogenomics DB</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>46591E88-DB18-4BB0-9646-BAAA88A33D56</key>
-		<string>https://github.com/peter-hansen/OncodbAccess.git</string>
+		<key>AFF99EAD-40F2-4459-B5CA-A6B6537DA059</key>
+		<string>https://github.com/peter-hansen/OncogenomicsDBFIREWALL.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Oncogenomics DB.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>46591E88-DB18-4BB0-9646-BAAA88A33D56</key>
+		<key>AFF99EAD-40F2-4459-B5CA-A6B6537DA059</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/peter-hansen/OncodbAccess.git</string>
+	<string>https://github.com/peter-hansen/OncogenomicsDBFIREWALL.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>46591E88-DB18-4BB0-9646-BAAA88A33D56</string>
+	<string>AFF99EAD-40F2-4459-B5CA-A6B6537DA059</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>46591E88-DB18-4BB0-9646-BAAA88A33D56</string>
+			<string>AFF99EAD-40F2-4459-B5CA-A6B6537DA059</string>
 			<key>IDESourceControlWCCName</key>
-			<string>GeneAccess</string>
+			<string>OncogenomicsDBFIREWALL</string>
 		</dict>
 	</array>
 </dict>
