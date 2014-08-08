@@ -166,8 +166,9 @@
     NSArray* splittedArray= [_html componentsSeparatedByString:@"<div class=heatmap>"];
     // check to make sure the data we're looking for is there so the app doesn't crash
     NSMutableString *secondhtml = [[NSMutableString alloc]init];
+    secondhtml = [@"<head><link href=\"http://nci-oncomics-1.nci.nih.gov/main.css\" rel=\"stylesheet\" type=\"text/css\"><table class=\"heatmapouter\"><link href=\"http://nci-oncomics-1.nci.nih.gov/JK/JK-db.css\" rel=\"stylesheet\" type=\"text/css\"><table class=\"heatmapouter\"></head>" mutableCopy];
     if(splittedArray[1]){
-        secondhtml = splittedArray[1];
+        [secondhtml appendString:splittedArray[1]];
     } else {
         return;
     }
